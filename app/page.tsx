@@ -91,7 +91,7 @@ export default function Home() {
               Why Choose Our Platform?
             </h2>
             <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl">
-              In an industry worth over $800B, we're revolutionizing how consultants and bankers work with data. 
+              In an industry worth over $800B, we&apos;re revolutionizing how consultants and bankers work with data. 
               Our platform saves countless hours of manual report generation while providing deeper insights through interactive visualizations.
             </p>
           </div>
